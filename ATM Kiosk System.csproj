@@ -185,6 +185,44 @@
       <SubType>Designer</SubType>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <None Include="bin\Debug\ATM Kiosk System.exe.config" />
+    <None Include="bin\Debug\BankData.db" />
+    <None Include="bin\Debug\Help System\bootstrap\fonts\glyphicons-halflings-regular.eot" />
+    <None Include="bin\Debug\Help System\bootstrap\fonts\glyphicons-halflings-regular.ttf" />
+    <None Include="bin\Debug\Help System\bootstrap\fonts\glyphicons-halflings-regular.woff" />
+    <None Include="bin\Debug\Help System\bootstrap\fonts\glyphicons-halflings-regular.woff2" />
+    <None Include="bin\Debug\Help System\font-awesome\fonts\fontawesome-webfont.eot" />
+    <None Include="bin\Debug\Help System\font-awesome\fonts\fontawesome-webfont.ttf" />
+    <None Include="bin\Debug\Help System\font-awesome\fonts\fontawesome-webfont.woff" />
+    <None Include="bin\Debug\Help System\font-awesome\fonts\fontawesome-webfont.woff2" />
+    <None Include="bin\Debug\Help System\font-awesome\fonts\FontAwesome.otf" />
+    <None Include="bin\Debug\Help System\font-awesome\less\bordered-pulled.less" />
+    <None Include="bin\Debug\Help System\font-awesome\less\core.less" />
+    <None Include="bin\Debug\Help System\font-awesome\less\fixed-width.less" />
+    <None Include="bin\Debug\Help System\font-awesome\less\font-awesome.less" />
+    <None Include="bin\Debug\Help System\font-awesome\less\icons.less" />
+    <None Include="bin\Debug\Help System\font-awesome\less\larger.less" />
+    <None Include="bin\Debug\Help System\font-awesome\less\list.less" />
+    <None Include="bin\Debug\Help System\font-awesome\less\mixins.less" />
+    <None Include="bin\Debug\Help System\font-awesome\less\path.less" />
+    <None Include="bin\Debug\Help System\font-awesome\less\rotated-flipped.less" />
+    <None Include="bin\Debug\Help System\font-awesome\less\spinning.less" />
+    <None Include="bin\Debug\Help System\font-awesome\less\stacked.less" />
+    <None Include="bin\Debug\Help System\font-awesome\less\variables.less" />
+    <None Include="bin\Debug\Help System\font-awesome\scss\font-awesome.scss" />
+    <None Include="bin\Debug\Help System\font-awesome\scss\_bordered-pulled.scss" />
+    <None Include="bin\Debug\Help System\font-awesome\scss\_core.scss" />
+    <None Include="bin\Debug\Help System\font-awesome\scss\_fixed-width.scss" />
+    <None Include="bin\Debug\Help System\font-awesome\scss\_icons.scss" />
+    <None Include="bin\Debug\Help System\font-awesome\scss\_larger.scss" />
+    <None Include="bin\Debug\Help System\font-awesome\scss\_list.scss" />
+    <None Include="bin\Debug\Help System\font-awesome\scss\_mixins.scss" />
+    <None Include="bin\Debug\Help System\font-awesome\scss\_path.scss" />
+    <None Include="bin\Debug\Help System\font-awesome\scss\_rotated-flipped.scss" />
+    <None Include="bin\Debug\Help System\font-awesome\scss\_spinning.scss" />
+    <None Include="bin\Debug\Help System\font-awesome\scss\_stacked.scss" />
+    <None Include="bin\Debug\Help System\font-awesome\scss\_variables.scss" />
+    <None Include="bin\Debug\System.Data.SQLite.dll.config" />
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -198,6 +236,46 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\ATM Kiosk System.exe" />
+    <Content Include="bin\Debug\ATM Kiosk System.pdb" />
+    <Content Include="bin\Debug\EntityFramework.dll" />
+    <Content Include="bin\Debug\EntityFramework.SqlServer.dll" />
+    <Content Include="bin\Debug\EntityFramework.SqlServer.xml" />
+    <Content Include="bin\Debug\EntityFramework.xml" />
+    <Content Include="bin\Debug\Help System\bootstrap\css\bootstrap.css" />
+    <Content Include="bin\Debug\Help System\bootstrap\css\bootstrap.min.css" />
+    <Content Include="bin\Debug\Help System\bootstrap\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="bin\Debug\Help System\bootstrap\js\bootstrap.js" />
+    <Content Include="bin\Debug\Help System\bootstrap\js\bootstrap.min.js" />
+    <Content Include="bin\Debug\Help System\font-awesome\css\font-awesome.css" />
+    <Content Include="bin\Debug\Help System\font-awesome\css\font-awesome.min.css" />
+    <Content Include="bin\Debug\Help System\font-awesome\fonts\fontawesome-webfont.svg" />
+    <Content Include="bin\Debug\Help System\img\changepin.PNG" />
+    <Content Include="bin\Debug\Help System\img\login.PNG" />
+    <Content Include="bin\Debug\Help System\img\logo.png" />
+    <Content Include="bin\Debug\Help System\img\transfer.PNG" />
+    <Content Include="bin\Debug\Help System\index.html" />
+    <Content Include="bin\Debug\Help System\js\jquery-1.10.2.min.js" />
+    <Content Include="bin\Debug\SQLitePCLRaw.core.dll" />
+    <Content Include="bin\Debug\System.Buffers.dll" />
+    <Content Include="bin\Debug\System.Buffers.xml" />
+    <Content Include="bin\Debug\System.Data.SQLite.dll" />
+    <Content Include="bin\Debug\System.Data.SQLite.EF6.dll" />
+    <Content Include="bin\Debug\System.Data.SQLite.Linq.dll" />
+    <Content Include="bin\Debug\System.Data.SQLite.xml" />
+    <Content Include="bin\Debug\System.Memory.dll" />
+    <Content Include="bin\Debug\System.Memory.xml" />
+    <Content Include="bin\Debug\System.Numerics.Vectors.dll" />
+    <Content Include="bin\Debug\System.Numerics.Vectors.xml" />
+    <Content Include="bin\Debug\System.Runtime.CompilerServices.Unsafe.dll" />
+    <Content Include="bin\Debug\System.Runtime.CompilerServices.Unsafe.xml" />
+    <Content Include="bin\Debug\x64\SQLite.Interop.dll" />
+    <Content Include="bin\Debug\x86\SQLite.Interop.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Release\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
