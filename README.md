@@ -1,4 +1,4 @@
-# ATM-Kiosk-System
+# ATM-Kiosk-System Modern Bank 
 
  This is a project I created as per specifications in C&amp;G Event Driven programming module during the course of my FIT ICTAP Software Development apprenticeship.    
    
