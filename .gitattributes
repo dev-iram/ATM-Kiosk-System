@@ -63,3 +63,4 @@
 #*.RTF   diff=astextplain
 #* linguist-vendored
 #*.js linguist-vendored=false
+#*.rb linguist-language=Java
