@@ -39,7 +39,9 @@ Design a piece of software using event driven programming solution that identifi
 ### Project Requirements  
   
 The project requirements involve the creation of a C#, .NET Framework application using an Object-Oriented Event-Driven programming approach that is to be used as an ATM Kiosk for Modern Bank.    
+  
 The requirements and methods that Modern Bank would like to be featured within the scope of this application includes:    
+  
   ✦	Login System – Using the Account Number and Account Pin to act as a username and password to the system. 
   ✦	View Current Balance – Allowing the customer to see their current balance on screen  
   ✦	View and Edit Personal Details – Allow the customer to see their current details, and make amendments where required.  
@@ -77,7 +79,7 @@ It will automatically move to the next input box after you have entered the user
 Hovering over the boxes will clear its contents.  
 
 
-Please see documentation in repo for additional information regarding the system, including screenshots + diagrams. 
+##### Please see documentation in repo for additional information regarding the system, including screenshots + diagrams. 
 
 
 
