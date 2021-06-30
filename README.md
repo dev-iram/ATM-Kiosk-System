@@ -57,7 +57,7 @@ e.g. Timer, onMouseOver, onHover, onCheck, etc.
 ### Functionality  
     
   ✦	The system will begin with a screen that acts like a screensaver. It will require the user to click anywhere to load the system. This will open the Login screen.  
-  ✦	The user will be prompted to Login. The customer must use their credentials already created via the bank. They will be able to access the system using their Account Number and Account PIN. They must use the onscreen keypad in order to login.  (Please see *Testing* for credentials)
+  ✦	The user will be prompted to Login. The customer must use their credentials already created via the bank. They will be able to access the system using their Account Number and Account PIN. They must use the onscreen keypad in order to login.  (Please see *Testing* for credentials)  
   ✦	After a successful login, the ATM Kiosk system will bring the customer to the main screen which will feature the different options and functionality of the system. This page will also feature a welcome message with the user’s first name.  
   ✦	The customer will have the ability to click a button to view their balance. This will open a new screen that will display the current funds in their bank account.  
   ✦	The customer will have the ability to change their current PIN. Their current PIN must first be confirmed, and then the system will allow the user to input a new pin which also requires a confirmation and to be entered twice.  
