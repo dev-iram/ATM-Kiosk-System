@@ -42,17 +42,17 @@ The project requirements involve the creation of a C#, .NET Framework applicatio
   
 The requirements and methods that Modern Bank would like to be featured within the scope of this application includes:    
   
-  ✦	Login System – Using the Account Number and Account Pin to act as a username and password to the system.  
-  ✦	View Current Balance – Allowing the customer to see their current balance on screen  
-  ✦	View and Edit Personal Details – Allow the customer to see their current details, and make amendments where required.  
-  ✦	View Banking Details – Allowing the customer to view private banking details, such as Account Number, Account PIN and Balance.  
-  ✦	Transfer – Ability to transfer money from one account to another  
-  ✦	Transaction History – Allow the user to view their transaction history, display their in/out funds with a description  
-  ✦	Timer – A timer that will log the user out after a certain amount of time  
-  ✦	Events – At least 3 different event types to be implemented within the program, 
+  ✦	**Login System** – Using the Account Number and Account Pin to act as a username and password to the system.  
+  ✦	**View Current Balance** – Allowing the customer to see their current balance on screen  
+  ✦	**View and Edit Personal Details** – Allow the customer to see their current details, and make amendments where required.  
+  ✦	**View Banking Details** – Allowing the customer to view private banking details, such as Account Number, Account PIN and Balance.  
+  ✦	**Transfer** – Ability to transfer money from one account to another  
+  ✦	**Transaction History** – Allow the user to view their transaction history, display their in/out funds with a description  
+  ✦	**Timer** – A timer that will log the user out after a certain amount of time  
+  ✦	**Events** – At least 3 different event types to be implemented within the program, 
 e.g. Timer, onMouseOver, onHover, onCheck, etc.  
-  ✦	Database to store customer’s account number, account pin, balance, address, name, etc. Multiple tables within the database.   
-  ✦	ATM Connector Class – A class for all SQL query’s within the system  
+  ✦	**Database** – Database to store customer’s account number, account pin, balance, address, name, etc. Multiple tables within the database.   
+  ✦	**ATM Connector Class** – A class for all SQL query’s within the system  
   
 ### Functionality  
     
