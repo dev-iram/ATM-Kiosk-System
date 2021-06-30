@@ -42,7 +42,7 @@ The project requirements involve the creation of a C#, .NET Framework applicatio
   
 The requirements and methods that Modern Bank would like to be featured within the scope of this application includes:    
   
-  ✦	Login System – Using the Account Number and Account Pin to act as a username and password to the system. 
+  ✦	Login System – Using the Account Number and Account Pin to act as a username and password to the system.  
   ✦	View Current Balance – Allowing the customer to see their current balance on screen  
   ✦	View and Edit Personal Details – Allow the customer to see their current details, and make amendments where required.  
   ✦	View Banking Details – Allowing the customer to view private banking details, such as Account Number, Account PIN and Balance.  
