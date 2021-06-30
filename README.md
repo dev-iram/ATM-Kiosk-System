@@ -72,8 +72,10 @@ e.g. Timer, onMouseOver, onHover, onCheck, etc.
 ## Testing 
 
 ### Credentials for testing: 
+  
 ✦ Username: 12345678   
 ✦ Password: 1234  
+  
 Please note: When logging in, the login is "touch", so you can use the buttons on the screen!  
 It will automatically move to the next input box after you have entered the username.  
 Hovering over the boxes will clear its contents.  
