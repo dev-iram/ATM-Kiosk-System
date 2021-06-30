@@ -1,4 +1,4 @@
-# ATM-Kiosk-System Modern Bank 
+# ATM-Kiosk-System-Modern-Bank 
 ![ATM Kiosk System](https://user-images.githubusercontent.com/22479692/123785107-0e523d80-d8d0-11eb-8bf2-95c8dec60a9d.png)
 
  This is a project I created as per specifications in C&amp;G Event Driven programming module during the course of my FIT ICTAP Software Development apprenticeship.    
