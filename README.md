@@ -85,7 +85,3 @@ Hovering over the boxes will clear its contents.
 
 
 
-
-
-
-
